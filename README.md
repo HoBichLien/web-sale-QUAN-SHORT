@@ -4,7 +4,7 @@
 <div  align="center">
 <img  src="https://github.com/HoBichLien/web-sale-QUAN-SHORT/blob/main/logo.png"  alt="Logo"  width="400px"  height="auto">
 </a>
-<h3  align="center">QUÀN SỌT LIEN NAM</h3>
+<h3  align="center">QUẦN SỌT LIEN NAM</h3>
 
 LIEN NAM – Stylish, Dynamic, and Modern Men’s Shorts Brand
 LIEN NAM is a fashion brand specializing in high-quality men’s shorts, offering an easy, convenient, and inspiring online shopping experience for modern men. The website is designed to be intuitive, flexible, and mobile-friendly, allowing users to effortlessly explore and select men’s shorts that match their personal style.
